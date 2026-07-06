@@ -1,2 +1,1 @@
-# Entrenamiento-CNN-
-Red neuronal convolucional (CNN) entrenada para clasificar imágenes de perros y gatos, usando TensorFlow/Keras.
+Notebook con el entrenamiento de una red neuronal convolucional (CNN) para clasificación binaria de imágenes: perros vs. gatos. Incluye preprocesamiento y aumento de datos (data augmentation), arquitectura del modelo, entrenamiento, y evaluación de métricas de precisión.
